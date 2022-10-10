@@ -32,7 +32,7 @@
             $(document).ready(function(){
                 $.ajax({
                     method: "GET",
-                    url: "http://localhost/iam/iam.json",
+                    url: "http://localhost:8080/job/html/ws/index.json",
                 }).done(function(response){
                     user_list = response.Users;
                     for(i = 0; i<user_list.length; i++){

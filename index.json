@@ -1,4 +1,4 @@
 [
     {"UserId": "1","UserName": "joystick","Path": "sls","CreateDate": "gcc", "Arn": "v4.1.1"},
-    {"UserId": "2","UserName": "led","Path": "sls","CreateDate": "gcc", "Arn": "v4.1.1"},
+    {"UserId": "2","UserName": "led","Path": "sls","CreateDate": "gcc", "Arn": "v4.1.1"}
 ]

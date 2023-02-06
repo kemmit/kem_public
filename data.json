@@ -1,12 +1,12 @@
 {
+ "schemaVersion": 1,
+ "label": "Build",
+ "message": "passing",
+ "color": "green",
  "type": "Virtual application",
  "technology": "Bluetooth",
  "license": "Zlib",
  "sdk": "v4.0.2",
  "ram": "10.18 KB",
- "flash": "243.49 KB",
- "schemaVersion": 1,
- "label": "Build",
- "message": "passing",
- "color": "green"
+ "flash": "243.49 KB"
 }
